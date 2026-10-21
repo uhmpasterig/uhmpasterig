@@ -1,64 +1,43 @@
-<p align="center">
-  <a href="https://github.com/uhmpasterig?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fuhmpasterig"/></a>
-  <a href="https://github.com/uhmpasterig?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/uhmpasterig?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/uhmpasterig/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=uhmpasterig&style=for-the-badge&color=lightgrey"/></a>
+<a href="https://github.com/uhmpasterig"><img src="assets/hero.svg" width="100%" alt="uhmpasterig. Full-stack developer. hello, friend."></a>
+
+<br>
+
+<img src="assets/label-whoami.svg" width="100%" alt="01 whoami">
+
+<img src="assets/whoami.svg" width="100%" alt="neofetch: uhmpasterig@fsociety. Full-stack developer since 2021. TypeScript, C#, Rust, Lua. Next.js, NestJS, Docker, Redis.">
+
+<br><br>
+
+<img src="assets/label-work.svg" width="100%" alt="02 Projects">
+
+<img src="assets/card-escrow.svg" width="49%" alt="escrow-exploit: FiveM asset escrow exploit, taken offline"> <img src="assets/card-botting.svg" width="49%" alt="player-botting: FiveM player botting exploit, offline">
+<a href="https://github.com/uhmpasterig/fivem-network-logger"><img src="assets/card-netlogger.svg" width="49%" alt="network-logger: FiveM server network logger, C++"></a> <a href="https://github.com/uhmpasterig/react-orbit-component"><img src="assets/card-orbit.svg" width="49%" alt="react-orbit: orbit component for React"></a>
+<a href="https://github.com/uhmpasterig/nest-redis-config"><img src="assets/card-redis.svg" width="49%" alt="nest-redis-config: shared config for NestJS microservices via Redis"></a> <a href="https://github.com/uhmpasterig/unluac-54"><img src="assets/card-unluac.svg" width="49%" alt="unluac-54: Lua 5.4 bytecode decompiler"></a>
+
+<br><br>
+
+<img src="assets/label-stack.svg" width="100%" alt="03 Stack">
+
+<img src="assets/stack.svg" width="100%" alt="Stack. Languages: TypeScript, C#, Rust, Lua, JavaScript, C++. Frontend: Next.js, React, SvelteKit, Vue, Tauri, Tailwind. Backend: NestJS, Bun, Elysia, Express, ASP.NET Core, Prisma. Data: PostgreSQL, Redis, MySQL, MongoDB. Infra: Docker, Linux, Git, Vercel.">
+
+<br><br>
+
+<img src="assets/label-repos.svg" width="100%" alt="04 Public repos">
+
+<p>
+<a href="https://github.com/uhmpasterig/useful-react-types"><b>useful-react-types</b></a> &nbsp;collection of React types that make your life easier<br>
+<a href="https://github.com/uhmpasterig/l0cked"><b>l0cked</b></a> &nbsp;base of a script and application marketplace, Next.js + Turborepo<br>
+<a href="https://github.com/uhmpasterig/nestjs-turbo-microservices"><b>nestjs-turbo-microservices</b></a> · <a href="https://github.com/uhmpasterig/config-microservice-example"><b>config-microservice-example</b></a> &nbsp;NestJS microservice playgrounds<br>
+<a href="https://github.com/uhmpasterig/altv-server"><b>altv-server</b></a> &nbsp;one of my first big C# projects, DI and EF Core
 </p>
-<details>
-<summary>
-  👆🏽 Click here for more interesting stuff about me
-</summary>
 
-### ℹ Disclaimer about my profile
-I had to remove my 2 biggest repos due to legal issues, currently trying to get them back online :(
+<br>
 
-## 📃 Skills
+<img src="assets/label-eof.svg" width="100%" alt="05 EOF">
 
-### 👨🏽‍💻 Programming Languages
+<img src="assets/footer.svg" width="100%" alt="exit. goodbye, friend. Thanks for scrolling this far.">
 
-- C#
-- JavaScript
-- TypeScript
-- Lua
-- Rust
-
-### 🌐 Web Technologies
-
-- Next.js
-- React.js
-- SvelteKit
-- Tauri
-- TailwindCSS
-- UnoCSS
-- Nest.js
-- Express.js
-- Elysia.js
-- Bun
-- ASP.NET Core
-- Prisma
-
-### 🤖 Tools
-
-- VS Code
-- Git/Github
-- Windows
-- Linux (Mainly using/working with: Arch, Debian, Ubuntu)
-- Docker
-- Postman
-- Databases:
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - Redis
-
-### 🏆 Most Used Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhmpasterig&show_icons=true&locale=en&layout=compact" alt="uhmpasterig" />
-
-## My Goals for 2024 📚
-
-- Learning C++ more in depth
-- Getting used to Microservice Architecture
-- Being more Active on Github again
-- Building a nice looking Portfolio for myself
+<p align="center">
+<a href="https://github.com/uhmpasterig"><img src="assets/btn-github.svg" width="49%" alt="GitHub: @uhmpasterig"></a>
+<a href="https://www.npmjs.com/~uhmpasterig"><img src="assets/btn-npm.svg" width="49%" alt="npm: ~uhmpasterig"></a>
+</p>
