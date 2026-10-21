@@ -5,7 +5,7 @@
 <img src="assets/divider-projects.svg" width="100%" alt="uhmpasterig@fsociety ~ $ ls ~/projects">
 
 <a href="https://github.com/uhmpasterig/fivem-network-logger"><img src="assets/card-netlogger.svg" width="49%" alt="network-logger.cpp: FiveM server network logger, C++, live"></a> <a href="https://github.com/uhmpasterig/unluac-54"><img src="assets/card-unluac.svg" width="49%" alt="unluac-54.lua: Lua 5.4 bytecode decompiler"></a>
-<img src="assets/card-escrow.svg" width="49%" alt="escrow-exploit.lua: FiveM asset escrow exploit, seized"> <img src="assets/card-botting.svg" width="49%" alt="player-botting.lua: FiveM player botting exploit, offline">
+<a href="https://forum.cfx.re/t/addressing-recent-asset-escrow-exploit/4879802"><img src="assets/card-escrow.svg" width="49%" alt="escrow-exploit.lua: FiveM asset escrow exploit, seized. Cfx.re's statement on it"></a> <img src="assets/card-botting.svg" width="49%" alt="player-botting.lua: FiveM player botting exploit, offline">
 <a href="https://github.com/uhmpasterig/react-orbit-component"><img src="assets/card-orbit.svg" width="49%" alt="react-orbit.tsx: orbit component for React, on npm"></a> <a href="https://github.com/uhmpasterig/nest-redis-config"><img src="assets/card-redis.svg" width="49%" alt="nest-redis-config.ts: shared NestJS config over Redis, on npm"></a>
 
 <br><br>
