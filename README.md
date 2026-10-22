@@ -1,6 +1,6 @@
 ### Hi, I'm uhmpasterig
 
-Full-stack developer since 2021. Mostly TypeScript and C#, some Rust and Lua. Usually building with Next.js, NestJS, Docker and Redis.
+Full-stack developer since 2019. Mostly TypeScript and C#, some Rust and Lua. Usually building with Next.js, NestJS, Docker and Redis.
 
 ### Projects
 
