@@ -1,35 +1,31 @@
-<img src="assets/whoami.svg" width="100%" alt="neofetch: uhmpasterig@fsociety. Full-stack developer since 2021. TypeScript, C#, Rust, Lua. Next.js, NestJS, Docker, Redis.">
+### Hi, I'm uhmpasterig
 
-<br><br>
+Full-stack developer since 2021. Mostly TypeScript and C#, some Rust and Lua. Usually building with Next.js, NestJS, Docker and Redis.
 
-<img src="assets/divider-projects.svg" width="100%" alt="uhmpasterig@fsociety ~ $ ls ~/projects">
+### Projects
 
-<a href="https://github.com/uhmpasterig/fivem-network-logger"><img src="assets/card-netlogger.svg" width="49%" alt="network-logger.cpp: FiveM server network logger, C++, live"></a> <a href="https://github.com/uhmpasterig/unluac-54"><img src="assets/card-unluac.svg" width="49%" alt="unluac-54.lua: Lua 5.4 bytecode decompiler"></a>
-<a href="https://forum.cfx.re/t/addressing-recent-asset-escrow-exploit/4879802"><img src="assets/card-escrow.svg" width="49%" alt="escrow-exploit.lua: FiveM asset escrow exploit, seized. Cfx.re's statement on it"></a> <img src="assets/card-botting.svg" width="49%" alt="player-botting.lua: FiveM player botting exploit, offline">
-<a href="https://github.com/uhmpasterig/react-orbit-component"><img src="assets/card-orbit.svg" width="49%" alt="react-orbit.tsx: orbit component for React, on npm"></a> <a href="https://github.com/uhmpasterig/nest-redis-config"><img src="assets/card-redis.svg" width="49%" alt="nest-redis-config.ts: shared NestJS config over Redis, on npm"></a>
+- [**fivem-network-logger**](https://github.com/uhmpasterig/fivem-network-logger) – logs every in- and outbound event of every resource on a FiveM server (C++)
+- [**unluac-54**](https://github.com/uhmpasterig/unluac-54) – Lua 5.4 bytecode decompiler, turns dumped `.luac` files back into readable Lua
+- [**react-orbit-component**](https://github.com/uhmpasterig/react-orbit-component) – puts any element on an animated orbit, on npm
+- [**nest-redis-config**](https://github.com/uhmpasterig/nest-redis-config) – shared NestJS config over Redis, on npm
+- **FiveM escrow exploit** – broke FiveM's asset escrow, taken down ([Cfx.re's statement](https://forum.cfx.re/t/addressing-recent-asset-escrow-exploit/4879802))
+- **FiveM player botting** – botted players onto servers to fill their slots, taken down
 
-<br><br>
+### Other repos
 
-<img src="assets/divider-stack.svg" width="100%" alt="uhmpasterig@fsociety ~ $ cat ~/.stack">
+- [useful-react-types](https://github.com/uhmpasterig/useful-react-types) – React types that make your life easier
+- [l0cked](https://github.com/uhmpasterig/l0cked) – base of a script and application marketplace, Next.js + Turborepo
+- [nestjs-turbo-microservices](https://github.com/uhmpasterig/nestjs-turbo-microservices), [config-microservice-example](https://github.com/uhmpasterig/config-microservice-example) – NestJS microservice playgrounds
+- [altv-server](https://github.com/uhmpasterig/altv-server) – one of my first big C# projects, DI and EF Core
 
-<img src="assets/stack.svg" width="100%" alt="Stack. Languages: TypeScript, C#, Rust, Lua, JavaScript, C++. Frontend: Next.js, React, SvelteKit, Vue, Tauri, Tailwind. Backend: NestJS, Bun, Elysia, Express, ASP.NET Core, Prisma. Data: PostgreSQL, Redis, MySQL, MongoDB. Infra: Docker, Linux, Git, Vercel.">
+### Stack
 
-<br><br>
+**Languages:** TypeScript, C#, Rust, Lua, JavaScript, C++  
+**Frontend:** Next.js, React, SvelteKit, Vue, Tauri, Tailwind  
+**Backend:** NestJS, Bun, Elysia, Express, ASP.NET Core, Prisma  
+**Data:** PostgreSQL, Redis, MySQL, MongoDB  
+**Infra:** Docker, Linux, Git, Vercel
 
-<img src="assets/divider-public.svg" width="100%" alt="uhmpasterig@fsociety ~ $ ls ~/public">
+---
 
-<p>
-<a href="https://github.com/uhmpasterig/useful-react-types"><b>useful-react-types</b></a> &nbsp;collection of React types that make your life easier<br>
-<a href="https://github.com/uhmpasterig/l0cked"><b>l0cked</b></a> &nbsp;base of a script and application marketplace, Next.js + Turborepo<br>
-<a href="https://github.com/uhmpasterig/nestjs-turbo-microservices"><b>nestjs-turbo-microservices</b></a> · <a href="https://github.com/uhmpasterig/config-microservice-example"><b>config-microservice-example</b></a> &nbsp;NestJS microservice playgrounds<br>
-<a href="https://github.com/uhmpasterig/altv-server"><b>altv-server</b></a> &nbsp;one of my first big C# projects, DI and EF Core
-</p>
-
-<br><br>
-
-<img src="assets/footer.svg" width="100%" alt="exit. goodbye, friend. Connection to fsociety closed.">
-
-<p align="center">
-<a href="https://github.com/uhmpasterig"><img src="assets/btn-github.svg" width="49%" alt="GitHub: @uhmpasterig"></a>
-<a href="https://www.npmjs.com/~uhmpasterig"><img src="assets/btn-npm.svg" width="49%" alt="npm: ~uhmpasterig"></a>
-</p>
+[npm](https://www.npmjs.com/~uhmpasterig)
