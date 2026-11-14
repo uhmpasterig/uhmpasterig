@@ -2,6 +2,13 @@
 
 Full-stack developer since 2019. Mostly TypeScript and C#, some Rust and Lua. Usually building with Next.js, NestJS, Docker and Redis.
 
+<a href="https://github.com/uhmpasterig/mergegraph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://mergegraph-snowy.vercel.app/uhmpasterig.svg?theme=dark">
+    <img alt="Contributions on GitHub and GitLab in the last year" src="https://mergegraph-snowy.vercel.app/uhmpasterig.svg">
+  </picture>
+</a>
+
 ### Projects
 
 - [**fivem-network-logger**](https://github.com/uhmpasterig/fivem-network-logger) – logs every in- and outbound event of every resource on a FiveM server (C++)
