@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" alt="Pixel-art night: a bus pulls into its stop while a train passes behind the town">
+<img src="banner.svg" width="100%" alt="Pixel-art night at the foot of the Swabian Alb: a bus pulls into its stop below Hohenzollern Castle while a train passes behind the town">
 
 ### Hi, I'm uhmpasterig
 
